@@ -7,6 +7,7 @@
 %define device_pretty Xperia Z3 Tablet Compact (LTE)
 
 %define installable_zip 1
+%define enable_kernel_update 1
 
 %define straggler_files \
 /selinux_version\
